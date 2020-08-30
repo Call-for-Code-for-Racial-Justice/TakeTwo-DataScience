@@ -81,9 +81,13 @@ The fields used by the model are:
 
 
 ## Data Science Evolution 
-The vision is that it is to contain an evolving set of versions, with various degrees of sophistication, for the DS/ML component of the solution. 
+The vision is that it is to contain an evolving set of versions, with various degrees of sophistication, for the DS/ML component of the solution. Currently, we have started completed DS-MVP-0 and have started to work on DS-MVP-1.
+
+![](images/datascience-prog.png)
+
 
 The overall goal of the DS/ML component is to use machine learning on text data to provide capability to detect racially biased expressions and usage in context.
+
 It will use as input labeled data collected through crowd sourcing enabled by the MVP1 browser extension ("Marker") and train an ML model to classify text, which is to be used by the MVP2 plug-in to a content editor ("Flagger") to flag racial biased (portions of) text input to the editor. 
 
 Below are a possible series of capabilities (refered to herein as DS-MVP's) that may be developed and included in this component:
