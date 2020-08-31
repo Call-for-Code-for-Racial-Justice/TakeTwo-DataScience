@@ -73,6 +73,12 @@ This repo contains the code for building a machine learning model to predict whe
 
 The model uses data from a backend database, populated by crowdsourcing. 
 
+There is also some initial data which was loaded into the backend database. This is composed of racial slurs. These are from the following data sources:
+
+- IBM defined racial slurs
+
+- https://en.wikipedia.org/wiki/List_of_ethnic_slurs
+
 The fields used by the model are:
 
 - ``"flagged_string"``: *The word of phrase that has been crowdsourced.*
