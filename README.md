@@ -28,7 +28,7 @@ The fields used by the model are:
 ## Data Science Evolution
 The vision is for the module to contain an evolving set of versions, with various degrees of sophistication, for the DS/ML component of the solution. Currently, the repository contains DS-MVP-0 and some work towards DS-MVP-1.
 
-![](/images/datascience-prog-2.png)
+![](/images/datascience-prog.png)
 
 The overall goal of the DS/ML component is to use machine learning on text data to detect racially biased expressions and usage in context.
 
