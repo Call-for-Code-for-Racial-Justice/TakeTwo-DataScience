@@ -53,7 +53,7 @@ Below are a possible series of capabilities (refered to herein as DS-MVP's) that
 There are a number of other components related to this project:
 
 - [TakeTwo WebAPI](https://github.com/Call-for-Code-for-Racial-Justice/taketwo-webapi/blob/main/README.md) - Code for the TakeTwo backend database.
-- [TakeTwo Marker Chrome Extenstion](https://github.com/Call-for-Code-for-Racial-Justice/taketwo-datascience/blob/main/README.md) - Code for the Chrome extension used to crowdsource data for training the ML model.
+- [TakeTwo Marker Chrome Extenstion](https://github.com/Call-for-Code-for-Racial-Justice/taketwo-marker-chromeextension/blob/main/README.md) - Code for the Chrome extension used to crowdsource data for training the ML model.
 
 ## License
 
