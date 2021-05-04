@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue.svg)](https://developer.ibm.com/callforcode/racial-justice/get-started/)
+
 # TakeTwo Solution Starter - Data Science
 
 The Call for Code for Racial Justice TakeTwo machine learning and datascience component uses data crowdsourced by a [Chrome extension](https://github.com/Call-for-Code-for-Racial-Justice/taketwo-marker-chromeextension/blob/main/README.md) and sent to a [backend database](https://github.com/Call-for-Code-for-Racial-Justice/taketwo-webapi/blob/main/README.md).
